@@ -5,4 +5,4 @@ compatibility_date = "2026-10-11"
 [[d1_databases]]
 binding = "DB"
 database_name = "tienditadb"
-database_id = "REEMPLAZAR_POR_EL_ID_REAL"
+database_id = "9b5d39a3-8a56-4145-ba75-547efacf88bc"
