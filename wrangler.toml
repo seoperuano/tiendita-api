@@ -1,0 +1,8 @@
+name = "tiendita-api"
+main = "src/index.js"
+compatibility_date = "2026-10-11"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "tienditadb"
+database_id = "REEMPLAZAR_POR_EL_ID_REAL"
